@@ -1,0 +1,16 @@
+[
+  { "name": "Banco de Crédito del Perú", "alias": "BCP", "id": "1" },
+  { "name": "Banco Internacional del Perú", "alias": "Interbank", "id": "2" },
+  { "name": "BBVA Continental", "alias": "BBVA", "id": "3" },
+  { "name": "BanBif", "alias": "BanBif", "id": "4" },
+  { "name": "Scotiabank", "alias": "Scotiabank", "id": "5" },
+  { "name": "Banco Falabella", "alias": "Falabella", "id": "6" },
+  { "name": "Banco Pichincha", "alias": "Pichincha", "id": "7" },
+  { "name": "Banco de Comercio", "alias": "Bancomercio", "id": "8" },
+  { "name": "Citibank Perú", "alias": "Citibank", "id": "9" },
+  { "name": "Mi Banco", "alias": "Mibanco", "id": "10" },
+  { "name": "Banco GNB", "alias": "GNB", "id": "11" },
+  { "name": "Banco Ripley", "alias": "Ripley", "id": "12" },
+  { "name": "Banco de la Nación", "alias": "Nacion", "id": "13" },
+  { "name": "Otro", "alias": "Otro", "id": "14" }
+]

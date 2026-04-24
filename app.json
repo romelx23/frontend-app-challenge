@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Kambista",
+    "slug": "kambista-prueba",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "main": "expo-router/entry",
+    "scheme": "kambista",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.c3msoftwaresolutions.iotc3m"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "@react-native-google-signin/google-signin",
+      [
+        "expo-sqlite",
+        {
+          "enableFTS": true,
+          "useSQLCipher": true
+        }
+      ],
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d0023ecd-5560-4eba-880e-6082f6398829"
+      },
+      "router": {
+        "origin": false
+      }
+    },
+    "owner": "romel23"
+  }
+}
